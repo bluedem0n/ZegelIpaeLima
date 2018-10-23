@@ -150,9 +150,11 @@ p, h1, h2, h3, h4, h5, h6, body {
 	font-size: 18px;
 	line-height: 30px;
 }
-.heroSectionText{
+
+.heroSectionText {
 	display: none;
 }
+
 
 /* SEDES */
 
@@ -176,11 +178,13 @@ p, h1, h2, h3, h4, h5, h6, body {
 	font-family: "Gilroy-Bold";
 	font-size: 35px;
 }
-.sede{
-    justify-content: center;
-    display: flex;
-    flex-direction: column;
+
+.sede {
+	justify-content: center;
+	display: flex;
+	flex-direction: column;
 }
+
 .titleSede {
 	background: #FFF;
 	font-family: "ProximaNova-Regular";
@@ -196,24 +200,27 @@ p, h1, h2, h3, h4, h5, h6, body {
 	letter-spacing: 0.8px;
 	font-size: 18px;
 }
-.contenedorButton{
+
+.contenedorButton {
 	margin-top: 10px;
-    justify-content: flex-end;
-    display: flex;
+	justify-content: flex-end;
+	display: flex;
 }
-.buttonSede{
+
+.buttonSede {
 	padding: 10px 0px;
-    background-color: #E51838;
-    display: flex;
-    height: 35px;
-    width: 160px;
-    justify-content: center;
-    text-align: center;
-    align-items: center;
+	background-color: #E51838;
+	display: flex;
+	height: 35px;
+	width: 160px;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
 	color: white;
 	font-family: "HelveticaLTStd";
 	font-size: 18px;
 }
+
 
 /* FOOTER */
 
