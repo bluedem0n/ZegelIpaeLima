@@ -1,0 +1,159 @@
+        /* RESPONSIVE */
+        
+        @media (max-width: 991px) {
+            .titleSede p {
+                font-size: 15px;
+            }
+        }
+        
+        @media (max-width: 768px) {
+            .sectionSedes .sede {
+                width: 60%;
+                margin: 0 auto;
+                margin-bottom: 2em;
+            }
+            .contenedorSedes {
+                height: auto;
+            }
+            .hero {
+                background: url(/img/backgroundLimaTablet.png) center no-repeat;
+                background-size: cover;
+                min-height: 50vh;
+            }
+            .titleSede {
+                margin: 0 auto;
+            }
+            .sectionCards {
+                text-align: center;
+            }
+            .contenedorHero {
+                display: none;
+            }
+            .heroSectionText {
+                display: block;
+                height: 35vh;
+                justify-content: center;
+                align-items: center;
+                align-content: center;
+                display: flex;
+            }
+            .heroTittle h2 {
+                width: 100%;
+            }
+            .heroDescription {
+                width: 100%;
+            }
+            .heroTittle {
+                height: auto;
+            }
+            .heroDescription p {
+                width: 75%;
+                margin-top: 1em;
+            }
+        }
+        
+        @media (max-width:600px) {
+            .sectionSedes .sede {
+                width: 80%;
+            }
+        }
+        
+        @media (max-width: 500px) {
+            .yearsText {
+                font-size: 14px;
+            }
+            .heroTittle h1 {
+                font-size: 30px;
+            }
+            .heroTittle h2 {
+                font-size: 20px;
+            }
+            .heroDescription p {
+                font-size: 14px;
+            }
+            .textoSedes h2 {
+                color: #000;
+                font-family: "Gilroy-Bold";
+                font-size: 25px;
+            }
+            .heroDescription p {
+                width: 90%;
+            }
+            .bordeHorizontal {
+                margin: 0 10px;
+            }
+            .logo {
+                width: 60%;
+            }
+            .yearsText {
+                font-size: 10px;
+            }
+            .buttonSede {
+                font-size: 15px;
+            }
+            .hero {
+                min-height: 35vh;
+            }
+            .heroSectionText {
+                height: 290px;
+            }
+        }
+        
+        @media (max-width: 360px) {
+            .years {
+                display: none !important;
+            }
+            .menu {
+                height: 50px;
+            }
+            .logo img {
+                max-width: 45%;
+            }
+            .sectionSedes .sede {
+                width: 100%;
+            }
+        }
+        
+        @media screen and (min-width: 320px) and (max-width: 568px) {}
+        
+        @media screen and (min-width: 375px) and (max-width: 667px) {}
+        
+        @media screen and (min-width: 414px) and (max-width: 736px) {}
+        
+        @media (max-width: 1199px) {}
+        
+        @media screen and (min-width: 768px) and (max-width: 1024px) {
+            .sectionSedes .sede {
+                width: 100%;
+            }
+        }
+        
+        @media (max-width:767px) {}
+        
+        @media (max-width: 500px) {}
+        
+        @media screen and (max-width: 375px) {}
+        
+        @media screen and (max-width: 400px) {}
+        
+        @media only screen and (min-width:1024px) and (min-height: 1366px) {
+            .hero {
+                background: url(/img/backgroundLimaTablet.png) center no-repeat;
+                background-size: cover;
+                min-height: 100vh;
+            }
+            .heroTittle {
+                height: 300px;
+            }
+            .heroDescription {
+                width: 100%;
+            }
+        }
+        
+        @media only screen and (min-width:1400px) and (min-height: 900px) {}
+        
+        @media only screen and (min-width:2000px) and (min-height: 1200px) {}
+        
+        @media only screen and (min-width:1600px) and (min-height: 1200px) {}
+        
+        @media only screen and (min-width:1920px) and (min-height: 1080px) {}
