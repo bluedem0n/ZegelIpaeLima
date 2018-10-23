@@ -16,7 +16,7 @@
                 height: auto;
             }
             .hero {
-                background: url(img/backgroundLimaTablet.png) center no-repeat;
+                background: url(../img/backgroundLimaTablet.png) center no-repeat;
                 background-size: cover;
                 min-height: 50vh;
             }
